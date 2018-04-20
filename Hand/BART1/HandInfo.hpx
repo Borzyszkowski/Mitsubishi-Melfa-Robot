@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Layout>
+	<Version>2.0</Version>
+	<Objects>
+		<Object>
+			<Name/>
+			<Type>3</Type>
+			<BoxID/>
+			<Color>16776960</Color>
+			<Show>1</Show>
+			<ViewType>0</ViewType>
+			<AxisNumber>-1</AxisNumber>
+			<ChildrenNum>0</ChildrenNum>
+			<TDModelName/>
+			<TDModelUnit>1</TDModelUnit>
+			<TDModelMagni>1.0</TDModelMagni>
+			<FontSize>1</FontSize>
+			<PosX>0.000000</PosX>
+			<PosY>0.000000</PosY>
+			<PosZ>0.000000</PosZ>
+			<RotationOrder>0</RotationOrder>
+			<AngleX>0.000000</AngleX>
+			<AngleY>0.000000</AngleY>
+			<AngleZ>0.000000</AngleZ>
+			<SizeX>0.000000</SizeX>
+			<SizeY>50.500000</SizeY>
+			<SizeZ>150.000000</SizeZ>
+			<MechaName/>
+		</Object>
+	</Objects>
+</Layout>
